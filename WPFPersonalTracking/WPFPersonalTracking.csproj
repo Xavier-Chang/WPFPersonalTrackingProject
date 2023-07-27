@@ -194,6 +194,8 @@
     <Compile Include="ViewModels\EmployeeViewModel.cs" />
     <Compile Include="ViewModels\PositionModel.cs" />
     <Compile Include="ViewModels\PositionViewModel.cs" />
+    <Compile Include="ViewModels\TaskDetailModel.cs" />
+    <Compile Include="ViewModels\TaskViewModel.cs" />
     <Compile Include="Views\DepartmentList.xaml.cs">
       <DependentUpon>DepartmentList.xaml</DependentUpon>
     </Compile>
@@ -202,6 +204,9 @@
     </Compile>
     <Compile Include="Views\PositionList.xaml.cs">
       <DependentUpon>PositionList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TaskList.xaml.cs">
+      <DependentUpon>TaskList.xaml</DependentUpon>
     </Compile>
     <Page Include="DepartmentPage.xaml">
       <SubType>Designer</SubType>
@@ -246,6 +251,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\PositionList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TaskList.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

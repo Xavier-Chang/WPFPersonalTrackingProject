@@ -112,3 +112,5 @@ C:\Users\SMART-THINK ONE\source\repos\WPFPersonalTracking\WPFPersonalTracking\ob
 C:\Users\SMART-THINK ONE\source\repos\WPFPersonalTracking\WPFPersonalTracking\obj\Debug\Views\EmployeeList.baml
 C:\Users\SMART-THINK ONE\source\repos\WPFPersonalTracking\WPFPersonalTracking\obj\Debug\EmployeePage.g.cs
 C:\Users\SMART-THINK ONE\source\repos\WPFPersonalTracking\WPFPersonalTracking\obj\Debug\EmployeePage.baml
+C:\Users\SMART-THINK ONE\source\repos\WPFPersonalTracking\WPFPersonalTracking\obj\Debug\Views\TaskList.g.cs
+C:\Users\SMART-THINK ONE\source\repos\WPFPersonalTracking\WPFPersonalTracking\obj\Debug\Views\TaskList.baml

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\SMART-THINK ONE\source\repos\WPFPersonalTracking\WPFPersonalTracking\App.xaml
-7-1869411360
+9-539749917
 
-27-420713452
+31-1771626267
 57-108660515
-DepartmentPage.xaml;EmployeePage.xaml;MainWindow.xaml;PositionPage.xaml;Views\DepartmentList.xaml;Views\EmployeeList.xaml;Views\PositionList.xaml;
+DepartmentPage.xaml;EmployeePage.xaml;MainWindow.xaml;PositionPage.xaml;TaskPage.xaml;Views\DepartmentList.xaml;Views\EmployeeList.xaml;Views\PositionList.xaml;Views\TaskList.xaml;
 
 True
 

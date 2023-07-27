@@ -48,5 +48,10 @@ namespace WPFPersonalTracking
             lblWindowName.Content = "Employee List";
             DataContext = new EmployeeViewModel();
         }
+
+        private void btnExit_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }
